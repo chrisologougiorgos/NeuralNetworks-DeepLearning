@@ -15,7 +15,7 @@ This repository contains a collection of neural network projects developed as pa
 
 ---
 
-### 2️⃣ **1st Assignment: Feedforward Neural Network (MLP) from scratch**
+### 2️⃣ **1st Assignment: MLP feedforward Neural Network from scratch**
 - **Algorithm**: Fully connected MLP with customizable layers
 - **Techniques**:
   - Activation functions: Sigmoid, ReLU, Leaky ReLU
