@@ -1,7 +1,7 @@
 
-# Neural Networks Projects – AUTH 2024–2025
+# Neural Networks Projects – CSD AUTH 2024–2025
 
-This repository contains a collection of neural network projects developed as part of the course *"Neural Networks – Deep Learning"* during the Winter Semester of the 2024–2025 academic year at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTH).
+This repository contains a collection of neural network projects developed as part of the course *"Neural Networks – Deep Learning"* during the Winter Semester of the 2024–2025 academic year at the School of CSD, AUTH.
 
 ## 📁 Contents
 
