@@ -52,10 +52,14 @@ This repository contains a collection of neural network projects developed as pa
 - All models are implemented **from scratch**, without using deep learning frameworks (e.g., TensorFlow, PyTorch).
 - Each subfolder contains its own report PDF in Greek.
 
-## 👨‍💻 Author
+## 👨‍🎓 Author
 
-Georgios Chrysologou  
-School of ECE, Aristotle University of Thessaloniki  
-Academic Year 2024–2025
+**Georgios Chrysologou**  
+Undergraduate student, 5th year  
+Department of Electrical and Computer Engineering  
+Aristotle University of Thessaloniki
+
+---
+
 
 
