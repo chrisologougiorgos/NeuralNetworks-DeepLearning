@@ -5,7 +5,7 @@ This repository contains a collection of neural network projects developed as pa
 
 ## 📁 Contents
 
-### 1️⃣ **Midterm Project: Classical Classifiers on CIFAR-10**
+### 1️⃣ **Mid Assignment: Classical Classifiers on CIFAR-10**
 - **Algorithms**: 1-NN, 3-NN, Nearest Centroid
 - **Dataset**: CIFAR-10
 - **Highlights**:
