@@ -28,8 +28,7 @@ This repository contains a collection of neural network projects developed as pa
 ### 3️⃣ **2nd Assignment: Support Vector Machine from scratch**
 - **Algorithm**: SVM 
 - **Techniques**:
-  - Xavier/He initialization
-  - Visualization of learning curves
+  - Both batches of random samples (imbalanced) and batches consisting of an equal number of samples for each class (balanced) 
 - **Dataset**: CIFAR-10
 
 ---
