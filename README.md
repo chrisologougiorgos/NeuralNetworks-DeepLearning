@@ -15,8 +15,8 @@ This repository contains a collection of neural network projects developed as pa
 
 ---
 
-### 2️⃣ **1st Assignment: Feedforward Neural Network (MLP) from Scratch**
-- **Architecture**: Fully connected MLP with customizable layers
+### 2️⃣ **1st Assignment: Feedforward Neural Network (MLP) from scratch**
+- **Algorithm**: Fully connected MLP with customizable layers
 - **Techniques**:
   - Activation functions: Sigmoid, ReLU, Leaky ReLU
   - Backpropagation and weight initialization
@@ -25,23 +25,21 @@ This repository contains a collection of neural network projects developed as pa
 
 ---
 
-### 3️⃣ **2nd Assignment: MLP with Weight Initialization and Comparison**
-- **Focus**: Deeper MLP structure, error surface exploration
+### 3️⃣ **2nd Assignment: Support Vector Machine from scratch**
+- **Algorithm**: SVM 
 - **Techniques**:
   - Xavier/He initialization
-  - Visualization of decision boundaries and learning curves
-  - Learning rate sensitivity
+  - Visualization of learning curves
 - **Dataset**: CIFAR-10
 
 ---
 
-### 4️⃣ **3rd Assignment: Radial Basis Function Neural Network**
-- **Model**: RBF Network for multiclass classification
-- **Training**: Delta rule and Least Squares
-- **Enhancements**:
+### 4️⃣ **3rd Assignment: Radial Basis Function Neural Network from scratch**
+- **Algorithm**: RBF Network 
+- **Techniques**:
+  - Delta rule and Least Squares 
   - PCA for dimensionality reduction
   - Manual tuning of width parameter σ
-  - Comparison with traditional classifiers
 - **Dataset**: CIFAR-10
 
 ## 🛠️ Dependencies
